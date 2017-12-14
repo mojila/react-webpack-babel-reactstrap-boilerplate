@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Display Test",
   "main": "app.js",
-  "repository": "https://mojila@bitbucket.org/dosenjaga/display.git",
+  "repository": "https://github.com/mojila/react-webpack-babel-reactstrap-boilerplate.git",
   "author": "mojila <mojila>",
   "license": "MIT",
   "dependencies": {
